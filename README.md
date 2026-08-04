@@ -12,14 +12,6 @@
 
 I'm a 19-year-old software developer, into cybersecurity, and building real-world projects.
 
-- 💻 Full-Stack Web Developer | CyberSecurity
-- 🚀 Building modern web applications
-- 🌱 Continuous Learner
-- 🎤 Communication & Public Speaking
-- AI updated Developer
-- 🇮🇳 Based 
-- Open for collaboration
----
 
 ## 🛠️ Tech Stack
 
