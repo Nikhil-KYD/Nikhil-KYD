@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a 19-year-old software developer, into cybersecurity, and building real-world projects.
+I'm a 18-year-old software developer, into cybersecurity, and building real-world projects.
 
 
 ## 🛠️ Tech Stack
