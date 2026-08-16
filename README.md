@@ -28,10 +28,22 @@ Currently focused on:
 - Databases
 - Building real-world projects
 
-## Stuffs i know
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,nextjs,nodejs,tailwind,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
+
+## Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,git,github,vscode,vercel" />
 </p>
 
 ## Projects
@@ -41,6 +53,8 @@ Currently focused on:
 A full-stack marketplace platform with authentication, product management, user profiles, and database integration.
 
 `Next.js` `React` `Supabase`
+
+[Link](https://qolox-market.vercel.app/) · [Codes](https://github.com/voyagerelev-cmyk/Qolox-coco)
 
 ### 💬 Real-Time Messaging
 
@@ -64,3 +78,4 @@ A modern messaging platform focused on real-time communication, authentication, 
 
 > **"My dream was to be in Nasa </3."**
 
+</div>
