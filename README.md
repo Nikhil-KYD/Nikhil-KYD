@@ -4,7 +4,8 @@
 
 <img align="right" src="./Astronaut icon.jpg" width="135" style="margin-top: 55px; margin-right: 15px; border-radius: 8px;"/>
 
-<p><strong>Hey, I'm Nikhil 👋</strong></p>
+***I am Nikhil***
+
 
 <p><strong>Software • AI & ML Student • Developer • Builder</strong></p>
 
@@ -16,7 +17,7 @@
 
 ## About Me
 
-I'm a **O-level/BCA student specializing in Artificial Intelligence & Machine Learning** at **Chandigarh University**.
+**Computer Science student specializing in Artificial Intelligence & Machine Learning** at **Chandigarh University, India**.
 
 I enjoy building things, learning new technologies, and turning ideas into real projects.
 
