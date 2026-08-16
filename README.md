@@ -6,7 +6,7 @@
 
 <p><strong>Hey, I'm Nikhil 👋</strong></p>
 
-<p><strong>software developer • AI & ML Student • Developer • Builder</strong></p>
+<p><strong>Software • AI & ML Student • Developer • Builder</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+things+that+actually+work.;Learning+AI+%26+Machine+Learning.;Turning+ideas+into+projects." />
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **BCA student specializing in Artificial Intelligence & Machine Learning** at **Chandigarh University**.
+I'm a **O-level/BCA student specializing in Artificial Intelligence & Machine Learning** at **Chandigarh University**.
 
 I enjoy building things, learning new technologies, and turning ideas into real projects.
 
