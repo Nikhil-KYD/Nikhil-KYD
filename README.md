@@ -19,8 +19,6 @@
 
 **Computer Science student specializing in Artificial Intelligence & Machine Learning** at **Chandigarh University, India**.
 
-I enjoy building things, learning new technologies, and turning ideas into real projects.
-
 Currently focused on:
 
 - AI & Machine Learning
