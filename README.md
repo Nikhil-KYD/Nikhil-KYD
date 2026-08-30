@@ -47,19 +47,21 @@ Currently focused on:
 
 ## Projects
 
+### 📚 FocusStudy
+
+A cozy study-space web application designed to make studying more focused and relaxing, featuring a study timer, customizable themes, and immersive background environments.
+
+`HTML` `CSS` `JavaScript`
+
+[Live App](https://focusstudy-nine.vercel.app/)
+
 ### 🛒 Marketplace
 
 A full-stack marketplace platform with authentication, product management, user profiles, and database integration.
 
 `Next.js` `React` `Supabase`
 
-[Link](https://qolox-market.vercel.app/) · [Codes](https://github.com/voyagerelev-cmyk/Qolox-coco)
-
-### 💬 Real-Time Messaging
-
-A modern messaging platform focused on real-time communication, authentication, and a clean responsive interface.
-
-`Next.js` `JavaScript` `Supabase`
+[Live App](https://qolox-market.vercel.app/) · [Code](https://github.com/voyagerelev-cmyk/Qolox-coco)
 
 ## Connect With Me
 
