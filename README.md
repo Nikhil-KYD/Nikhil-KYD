@@ -47,10 +47,12 @@ Currently focused on:
 
 ## Projects
 
-### 📚 FocusStudy
+### 📚 FocusStudy (TooCozy.com)
+
+ <img align="right" src="./block2.png" width=100>
 
 A cozy study-space web application designed to make studying more focused and relaxing, featuring a study timer, customizable themes, and immersive background environments.
-
+           
 `HTML` `CSS` `JavaScript`
 
 [Live App](https://focusstudy-nine.vercel.app/)
