@@ -2,7 +2,7 @@
 
 
 
-<img align="left" src="./Astronaut icon.jpg" width="135" style="margin-top: 55px; margin-right: 15px; border-radius: 8px;"/>
+<img align="left" src="assets/Astronaut icon.jpg" width="135" style="margin-top: 55px; margin-right: 15px; border-radius: 8px;"/>
 
 ***I am Nikhil***
 
@@ -21,7 +21,7 @@
 
 Currently focused on:
 <br>
-<img align="right" src="./798263102741871908.jpg" width="135" style="border-radius: 8px;">
+<img align="right" src="assets/798263102741871908.jpg" width="135" style="border-radius: 8px;">
 
 - AI & Machine Learning
 - Full-Stack Development
@@ -52,7 +52,7 @@ Currently focused on:
 
 ### 📚 FocusStudy (TooCozy.com)
 
- <img align="right" src="./block2.png" width=100>
+ <img align="right" src="assets/block2.png" width=100>
 
 A cozy study-space web application designed to make studying more focused and relaxing, featuring a study timer, customizable themes, and immersive background environments.
            
