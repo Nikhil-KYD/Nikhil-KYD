@@ -2,7 +2,7 @@
 
 
 
-<img align="left" src="assets/Astronaut icon.jpg" width="135" style="margin-top: 55px; margin-right: 15px; border-radius: 8px;"/>
+<img align="left" src="assets/Astronaut icon.jpg" width="110" style="margin-top: 55px; margin-right: 15px;"/>
 
 ***I am Nikhil***
 
@@ -21,7 +21,7 @@
 
 Currently focused on:
 <br>
-<img align="right" src="assets/798263102741871908.jpg" width="135" style="border-radius: 8px;">
+<img align="right" src="assets/798263102741871908.jpg" width="110" style="border-radius: 8px;">
 
 - AI & Machine Learning
 - Full-Stack Development
